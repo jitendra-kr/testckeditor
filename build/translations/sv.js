@@ -1,0 +1,1 @@
+(function(o){const t=o["sv"]=o["sv"]||{};t.dictionary=Object.assign(t.dictionary||{},{Bold:"Fet","Dropdown toolbar":"","Editor toolbar":"",Redo:"Gör om","Rich Text Editor":"Rich Text-editor","Rich Text Editor, %0":"Rich Text-editor, %0","Show more items":"",Undo:"Ångra"});t.getPluralForm=function(o){return o!=1}})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));
